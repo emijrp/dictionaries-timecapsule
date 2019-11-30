@@ -1,6 +1,6 @@
 # dictionaries-timecapsule
-A set of dictionaries for future generations
+A set of dictionaries for future generations.
 
-* Wiktionary has over 6,000,000 words in 4,000 languages. License is CC-BY-SA
+* [Wiktionary](https://en.wiktionary.org/) has over 6,000,000 words from over 4,000 languages. License is CC-BY-SA.
 
 ![RosettaStone.jpg](/RosettaStone.jpg)
